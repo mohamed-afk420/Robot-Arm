@@ -14,3 +14,5 @@ thats the new hand above and here's the old hand
 we printed out the new hand but with the lack of dental bands we only assembled it
 here's the real hand
 and also the wiring 
+<img src="images/code.png" alt="motaharu" width="200">
+<img src="images/Real.png" alt="motaharu" width="200">
