@@ -10,3 +10,7 @@ we had two diffrent hands and at the very last minute we switched up and chose a
 <img src="images/Hand.png" alt="motaharu" width="200">
 thats the new hand above and here's the old hand
 <img src="images/old.png" alt="motaharu" width="200">
+# Pieces
+we printed out the new hand but with the lack of dental bands we only assembled it
+here's the real hand
+and also the wiring 
