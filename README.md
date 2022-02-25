@@ -16,3 +16,6 @@ here's the real hand
 and also the wiring 
 <img src="images/code.png" alt="motaharu" width="200">
 <img src="images/realhand.png" alt="motaharu" width="200">
+# Documentation
+there wasn't much documentation but all the planning was on this google doc.
+https://docs.google.com/document/d/1JagedNZsGMul48KZmvfa4X2Rq88BIXiYmFTGOAQENBg/edit?scrlybrkr=2e170b75
