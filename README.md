@@ -19,3 +19,5 @@ and also the wiring
 # Documentation
 there wasn't much documentation but all the planning was on this google doc.
 https://docs.google.com/document/d/1JagedNZsGMul48KZmvfa4X2Rq88BIXiYmFTGOAQENBg/edit?scrlybrkr=2e170b75
+
+# I thought It'd be easier if we all used one repository so Jason and Jamil are also going to submit this repository too.
